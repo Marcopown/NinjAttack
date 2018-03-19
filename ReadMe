@@ -1,5 +1,13 @@
-NinjAttack is a University Project made in Processing. It's a point and click game developed in 1 month. 
+NinjAttack" is a University Project made in Processing. It's a point and click game developed in 1 month (Feb 2015). 
 The player has to kill as much Ninjas as he can in the given time. The game keeps track of the high score. Ninja can "partially hide" behind the scenario environment.
 
-Processing Data Folder contains the code in pde.
-File exe folder contains the built project.
+"Processing Data" Folder contains the code in pde.
+"File exe" folder contains the built project.
+
+----
+
+"NinjAttack" è stato creato tramite il software Processing per un progetto universitario. E' un gioco punta e clicca sviluppato in un mese (Feb 2015).
+L'obiettivo del giocatore è uccidere più ninja possibile nel tempo che gli è concesso. Il gioco tiene traccia del punteggio miigliore . I ninja possono nascondersi parzialmente dietro gli elementi del paesaggio.
+
+La cartella "Processing Data" contiene i codici in formato .pbe.
+La cartella "File exe" contiene l'eseguibile.
